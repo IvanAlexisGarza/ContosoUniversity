@@ -1,0 +1,11 @@
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\SupaG\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
